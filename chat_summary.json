@@ -1,5 +1,11 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific fields do you want included in the crypto swap form (e.g., amount, currency type, recipient address)?\", \"option1\": \"Include fields for amount and currency type\", \"option2\": \"Include fields for amount, currency type, and recipient address\"}, {\"question 2\": \"How would you like the form to be styled (e.g., minimalist, colorful, or something else)?\", \"option1\": \"Minimalist style\", \"option2\": \"Colorful and engaging style\"}], \"input_token_count\": 309, \"output_token_count\": 117, \"time_taken\": \"0:00:02.422099\"}",
+        "timestamp": "19112024150018",
+        "message_id": "guest19112024150012"
+    },
+    {
         "role": "user",
         "content": "add a form for swapping crypto",
         "timestamp": "19112024150013",
