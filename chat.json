@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"User-friendly dropdown for selecting cryptocurrencies\", \"checked\": true}, {\"feature\": \"Exchange rate calculator\", \"checked\": true}, {\"feature\": \"Transaction history log\", \"checked\": false}, {\"feature\": \"Favorite cryptocurrencies list\", \"checked\": false}, {\"feature\": \"Push notifications for exchange rate updates\", \"checked\": false}], \"input_token_count\": 437, \"output_token_count\": 82, \"time_taken\": \"0:00:01.866703\"}",
+        "message_id": "guest19112024150402",
+        "timestamp": "19112024150412",
+        "component_file_name": "blank_component_1732028330",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific fields do you want to include in the form for swapping crypto?\", \"option1\": \"Amount and currency type\", \"option2\": \"Recipient address\"}, {\"question 2\": \"How would you like the form to be styled?\", \"option1\": \"Minimalist design\", \"option2\": \"Colorful and engaging design\"}], \"input_token_count\": 483, \"output_token_count\": 83, \"time_taken\": \"0:00:01.746505\"}",
         "message_id": "guest19112024150402",
