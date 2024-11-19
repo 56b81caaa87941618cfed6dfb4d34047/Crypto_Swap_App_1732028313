@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Okay, I will create a form for swapping crypto.",
+        "message_id": "guest19112024145911",
+        "timestamp": "19112024145912",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a form for swapping crypto",
         "message_id": "guest19112024145911",
