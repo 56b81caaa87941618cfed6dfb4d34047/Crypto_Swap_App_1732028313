@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What shade of blue would you like for the background?\", \"option1\": \"Light blue\", \"option2\": \"Dark blue\"}, {\"question 2\": \"Do you want any contrasting elements or text colors with the blue background?\", \"option1\": \"Yes, please specify\", \"option2\": \"No, keep it simple\"}], \"input_token_count\": 484, \"output_token_count\": 82, \"time_taken\": \"0:00:02.251321\"}",
+        "message_id": "guest19112024152854",
+        "timestamp": "19112024152859",
+        "component_file_name": "blank_component_1732028330",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'm working on changing the background to blue.",
         "message_id": "guest19112024152854",
