@@ -1,1 +1,6 @@
-[]
+[
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nIn the conversation, the user requested an addition of a form for swapping cryptocurrency. The AI acknowledged the user's request by indicating it would create the form and then asked for more details about the project to better understand the user's needs. The AI also noted that it has training data up to October 2023.\nAI: Okay, I'll begin working on adding the form now.\nUser: add a form\nUser: add a form for swapping crypto\nAI: Sure, I'm implementing a form for swapping crypto now.\n\nThis is the user's current request of changes to be made:\nadd a form"
+    }
+]
