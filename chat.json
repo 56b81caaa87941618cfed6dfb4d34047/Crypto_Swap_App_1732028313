@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific fields do you want included in the crypto swapping form (e.g., amount, currency type, wallet address)?\", \"option1\": \"I want to include fields for amount and currency type.\", \"option2\": \"I want to include additional fields like wallet address.\"}, {\"question 2\": \"How do you envision the layout and design of the form (e.g., single column, multi-column, dropdowns)?\", \"option1\": \"I prefer a single-column layout for simplicity.\", \"option2\": \"I prefer a multi-column layout for better organization.\"}], \"input_token_count\": 377, \"output_token_count\": 131, \"time_taken\": \"0:00:02.650929\"}",
+        "message_id": "guest19112024150247",
+        "timestamp": "19112024150253",
+        "component_file_name": "blank_component_1732028334",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a form",
         "message_id": "guest19112024150247",
