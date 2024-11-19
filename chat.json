@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"User-friendly input validation for form fields\", \"checked\": true}, {\"feature\": \"Real-time exchange rate display within the form\", \"checked\": true}, {\"feature\": \"Transaction summary section before submission\", \"checked\": false}, {\"feature\": \"Responsive design for mobile and tablet users\", \"checked\": false}, {\"feature\": \"Success and error message pop-ups after form submission\", \"checked\": false}], \"input_token_count\": 279, \"output_token_count\": 97, \"time_taken\": \"0:00:01.562222\"}",
+        "message_id": "guest19112024150147",
+        "timestamp": "19112024150155",
+        "component_file_name": "blank_component_1732028330",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific fields do you want to include in the crypto swapping form (e.g., amount, currency selection)?\", \"option1\": \"Amount and currency selection\", \"option2\": \"Additional fields like contact information\"}, {\"question 2\": \"How would you like the form to be styled or designed (e.g., modern, minimalistic)?\", \"option1\": \"Modern design\", \"option2\": \"Minimalistic design\"}], \"input_token_count\": 325, \"output_token_count\": 102, \"time_taken\": \"0:00:01.686087\"}",
         "message_id": "guest19112024150147",
